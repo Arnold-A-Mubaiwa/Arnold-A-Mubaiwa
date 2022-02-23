@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://i.ibb.co/10yT9PB/arnold.png" width="100"/>
+  <img src="https://i.ibb.co/10yT9PB/arnold.png" width="100" style="border-radius:15px;"/>
   <div id="badges">
   <a href="https://www.linkedin.com/in/arnold-anotida-mubaiwa-75aa1816a/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -13,7 +13,6 @@
   Good morning and win today
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-  <div align="center">
-  <img src="https://media.giphy.com/media/ljbc6imoJynedLFFLh/giphy.gif" width="500" height="200"/>
+ <img src="https://media.giphy.com/media/ljbc6imoJynedLFFLh/giphy.gif" width="500" height="200"/>
 </div>
-</div>
+ 
