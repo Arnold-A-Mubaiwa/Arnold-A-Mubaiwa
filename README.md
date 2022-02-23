@@ -15,4 +15,8 @@
 </h1>
  <img src="https://media.giphy.com/media/ljbc6imoJynedLFFLh/giphy.gif" width="500" height="200"/>
 </div>
- 
+
+
+### :fire: My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=arnold-a-mubaiwa&theme=dark&background=000000)](https://git.io/streak-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arnold-a-mubaiwa&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
