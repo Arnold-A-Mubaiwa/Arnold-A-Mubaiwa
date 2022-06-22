@@ -11,7 +11,7 @@
   <img src="https://komarev.com/ghpvc/?username=arnold-a-mubaiwa&style=flat-square&color=blue" alt=""/>
   <h1>
   Good morning and win today
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+<!--   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"/> -->
 </h1>
  <img src="https://media.giphy.com/media/ljbc6imoJynedLFFLh/giphy.gif" width="500" height="200"/>
 </div>
